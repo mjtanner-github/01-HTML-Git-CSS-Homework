@@ -20,13 +20,13 @@ header {
     color: #ffffff;
 }
 
-#logo h1 {
+#logo {
     font-size: 48px;
 }
 
 /* The middle segment of the logo has different coloration for design effect*/
 
-#logo h1 #seo {
+#logo #seo {
     color:#d9dcd6;
 }
 
